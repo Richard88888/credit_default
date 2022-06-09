@@ -1,2 +1,2 @@
 # credit_default
-信用卡违约率分析：针对台湾某银行信用卡的数据，构建一个分析信用卡违约率的分类器。采用 Random Forest 算法，信用卡违约率识别率在 80% 左右
+Credit card default rate analysis: based on the credit card data of a bank in Taiwan, a classifier is constructed to analyze the credit card default rate. By using Random Forest algorithm, the recognition rate of credit card default rate is about 80%. 
